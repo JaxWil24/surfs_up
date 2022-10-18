@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Overview of the analysis
-* Research weather patterns to find differences between June and December to decide if opening an ice-cream shop year round is profitable. 
+* Research weather patterns in June and December to decide if opening an ice-cream shop year round is profitable. 
 
 ## Results
 * Created a dataframe of summary statistics for June.
